@@ -1,3 +1,7 @@
+## Solutions Architecture
+![architecture](./images/architecture.jpg)
+
+
 ## Cost Estimation
 This architecture will be hosted on Google Cloud Platform in Singapor (asia-southeast1) region.
 
